@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Athena - Student Profile</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS for styling -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="text-center">
+            <h1>Welcome to Athena</h1>
+            <p>Your AI College Counselor</p>
+        </div>
+
+        <form method="post">
+            <div class="form-group">
+                <label for="name"><strong>1. Name</strong></label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required>
+
+                <label for="grade" class="mt-3"><strong>2. Grade</strong></label>
+                <input type="text" name="grade" id="grade" class="form-control" placeholder="Enter your grade" required>
+            </div>
+
+            <div class="form-group">
+                <label for="future_study"><strong>3. What’s one thing you’re thinking about studying or pursuing in the future, and why?</strong></label>
+                <textarea name="future_study" id="future_study" class="form-control" placeholder="Share your thoughts about a future field or career" rows="3" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="deep_interest"><strong>4. What’s one activity, hobby, or topic you genuinely enjoy and could spend hours on?</strong></label>
+                <textarea name="deep_interest" id="deep_interest" class="form-control" placeholder="Describe the topic/hobby that fascinates you" rows="3" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="unique_something"><strong>5. What’s one thing about you that people often find surprising or unique?</strong></label>
+                <textarea name="unique_something" id="unique_something" class="form-control" placeholder="Share something unique about yourself" rows="3" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="current_extracurriculars"><strong>6. List all your current extracurriculars.</strong></label>
+                <textarea name="current_extracurriculars" id="current_extracurriculars" class="form-control" placeholder="e.g. Sports teams, clubs, volunteer work, part-time jobs" rows="3" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="favorite_courses"><strong>7. What are your favorite courses that you’ve taken in school?</strong></label>
+                <textarea name="favorite_courses" id="favorite_courses" class="form-control" placeholder="List your favorite school courses" rows="3" required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block mt-3">Start Chatting with Athena</button>
+        </form>
+    </div>
+</body>
+</html>
