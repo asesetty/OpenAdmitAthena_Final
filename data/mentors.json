@@ -1497,5 +1497,904 @@
         "content": "Just after I learned about standard deviation in my AP Statistics class, I began applying it to real financial datasets. My teacher allowed me to serve as a TA, so I helped design class projects that used basic probability concepts to interpret stock returns or commodity price fluctuations. Initially, some classmates scoffed: 'We’re only in high school—why do we need to know how to read a stock chart?' But as we integrated these real-market examples, engagement soared.\n\nWe’d run simple simulations. Suppose we have a random generator that picks daily returns from a normal distribution with a certain mean and variance. Students would track how their hypothetical portfolios evolved over 30 days. Observing the final outcomes, they could see how even if the average was positive, volatility could result in short-term losses. This hammered home that risk is not just a concept but a lived experience in finance.\n\nThe project’s highlight was a joint session with the Econ Society, where we debated whether stock price movements truly follow a normal distribution. We discovered anomalies—fat tails, black swan events—that statistics 101 doesn’t perfectly capture. This led to deeper discussions about the limitations of classical models and the complexities of real markets.\n\nBeyond the academic exercise, I saw how analyzing finance data can sharpen critical thinking skills. Classmates who once dreaded math began appreciating it when it illuminated real stakes. One friend even said, 'Now I get why my parents freak out about retirement funds whenever the market dips.'\n\nAs I look forward, I see bridging stats and finance as an ongoing journey. Each dataset, each distribution, each anomaly is a chance to question assumptions and refine models. In a world brimming with data, harnessing these tools responsibly can not only guide better investments but also prompt us to ask what lies beyond the numbers. That curiosity, planted in a high school stats classroom, will continue to guide my pursuits in higher education and beyond."
       }
     ]
+  },
+  {
+    "student": "Aalaap",
+    "activities": [
+      {
+        "category": "Computer/Technology",
+        "grades": [11, 12],
+        "time_commitment": "6 hr/wk, 42 wk/yr",
+        "description": "Co-founder/Full Stack Developer, ScrapSaver: Designed and built a web app (Python) connecting restaurants and soup kitchens; 7 restaurants & 3 charities; 200lbs food/month; Diamond Challenge Semifinalist."
+      },
+      {
+        "category": "Other Club/Activity",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "5 hr/wk, 30 wk/yr",
+        "description": "Recipe/Content Creator, AceForFood: Created and taught healthy recipes; edited YouTube videos; collaborated with YouTubers; videos with 25k+ views; blog spanning 55+ countries."
+      },
+      {
+        "category": "Other Club/Activity",
+        "grades": [11],
+        "time_commitment": "6 hr/wk, 22 wk/yr",
+        "description": "Awardee & Semifinalist, International Diamond Challenge: Created pitch decks & videos for ScrapSaver; presented to judges; collaborated with international teams; gained exposure to business."
+      },
+      {
+        "category": "Research",
+        "grades": [11],
+        "time_commitment": "7 hr/wk, 20 wk/yr",
+        "description": "Data Science Researcher, Polygence Research Institute: Researched plant protein's effect on muscle growth; mentored by Stanford Ph.D. student; published in Journal of Student Research."
+      },
+      {
+        "category": "Computer/Technology",
+        "grades": [11, 12],
+        "time_commitment": "5 hr/wk, 25 wk/yr",
+        "description": "Database Software & Machine Learning Researcher: Automated soil chemical data transfer; developed heart disease prediction models; presented at symposiums."
+      },
+      {
+        "category": "Internship",
+        "grades": [11],
+        "time_commitment": "105 hr/wk, 2 wk/yr",
+        "description": "Chef de Partie / Line Cook Intern, Junoon: Prepped ingredients; led appetizers; assisted tandoor chef; learned progressive Indian cuisine in a Michelin-starred NYC restaurant."
+      },
+      {
+        "category": "Community Service",
+        "grades": [10, 11, 12],
+        "time_commitment": "5 hr/wk, 32 wk/yr",
+        "description": "Meal Prep Volunteer/Server, Martha’s Soup Kitchen: Prepped, cooked, and served meals; 220+ hours; built ScrapSaver partnership with the director."
+      },
+      {
+        "category": "Internship",
+        "grades": [10],
+        "time_commitment": "40 hr/wk, 6 wk/yr",
+        "description": "Consumer Design Intern, SecurityAdvisor: Conducted UI/UX research; built wireframes & mockups for cyber security awareness products; gained corporate engineering exposure."
+      },
+      {
+        "category": "Research",
+        "grades": [11],
+        "time_commitment": "40 hr/wk, 6 wk/yr",
+        "description": "Data Science & Machine Learning Student, Summer STEM Institute: Studied Python algorithms; conducted obesity research; won 3 Masterclass deliverables."
+      },
+      {
+        "category": "Athletics: Club",
+        "grades": [9, 10],
+        "time_commitment": "8 hr/wk, 45 wk/yr",
+        "description": "Tennis, Team Captain of 15U Division: Reached JTT National Championships; represented NorCal in Gar Glenny Cup; won Northern California sectionals and regionals."
+      }
+    ],
+    "essays": [
+      {
+        "title": "Essay 1",
+        "content": "Martha's Soup Kitchen ran out of pasta... and my heart sank as I watched hungry families leave without dinner.\nAlthough I joined as a volunteer, witnessing Martha's struggles to meet demand compelled me to help beyond chopping vegetables. During my restaurant internships, I had seen chefs discarding perfectly edible produce due to storage issues. Could I send such ingredients to Martha's?\nI formed a team and began developing ScrapSaver, a web app that connects restaurants with soup kitchens to relay surplus produce. To create an impactful product, I broke down the larger issue of food insecurity and mapped out specific roles for each teammate. For example, my partner focused on establishing restaurant partnerships while I used my computer science background to build the website.\nHowever, I quickly realized that coding alone wouldn’t suffice. To truly address the problem, I needed to become a people-first leader—someone who listens, learns, and communicates effectively with the individuals we aim to serve. I immersed myself in studying food insecurity, seizing every opportunity to learn from experts.\nOne of my first encounters was with Darren, a familiar face in Martha's lines. After learning that he and many others exhausted their food stamps within the first week of the month, we developed a system to allocate and donate produce later in the month when the need was greatest. Similarly, after interviewing busy restaurant owners who wanted to donate but struggled to find time, I redesigned ScrapSaver’s user interface, replacing lengthy forms with quick pick-and-choose options.\nAfter countless meetings with restaurants and charities, we established ongoing partnerships. While we faced plenty of \"no's,\" persistence paid off—we secured seven partnerships, relaying 200 pounds of produce monthly!\nAs ScrapSaver grew, I discovered that leadership isn’t about a title—it’s about action. Leaders are listeners who uncover and address the root of users’ pain points. They form connections, inspire communities, and drive meaningful change.\nI aspire to continue leading endeavors for the common good at the UCs and beyond!"
+      },
+      {
+        "title": "Essay 2",
+        "content": "The room buzzed with energy—forty international teams sharing entrepreneurial ideas at the Diamond Challenge's meet-and-greet gala. The uplifting atmosphere inspired me to connect with my competitors before pitching to the judges the next day.\nMy team was preparing to present ScrapSaver, an app connecting restaurants and charities to relay surplus produce... but I had no formal business experience.\nWe approached Ruhan, a fellow competitor rehearsing with his team, and asked if we could practice our pitches together. He eagerly agreed. My team launched into our presentation, starting with statistics on food insecurity before diving into financial projections and market size.\nRuhan listened intently and then asked a simple yet profound question:\n\"Why food insecurity?\"\nAs we described our soup kitchen volunteering experiences, I realized the paradox he implied—we were too focused on the numbers. Statistics alone couldn’t convey the helplessness we felt seeing families turned away from dinner.\nRuhan’s feedback lingered all night, prompting us to reorganize our pitch. The next day, during our official presentation, I began with the story that inspired ScrapSaver: the countless times we witnessed soup kitchens running out of food. By leading with emotion, we hoped to highlight the urgency of addressing food insecurity.\nIt worked. At the end of our pitch, the judges offered to connect us with nonprofit organizations to expand ScrapSaver’s mission.\nThe Diamond Challenge was a transformative experience. Each conversation yielded valuable insights, and I connected with teams over our shared passion for creating socially-focused businesses. Most importantly, I learned that stepping into new disciplines—like entrepreneurship—can lead to incredible outcomes.\nThat’s how I fell in love with entrepreneurship.\nAt the UCs, I’m excited to immerse myself in a similar environment where I can collaborate with peers, push boundaries, and explore the unknown. Surrounded by passionate individuals, I’ll find the confidence to embrace opportunities and grow beyond my comfort zone."
+      },
+      {
+        "title": "Essay 3",
+        "content": "Determined to shed my “quarantine-nineteen” (pounds), I set out to create a protein pancake recipe that fueled my workouts without compromising flavor.\nMy first batches of vanilla whey pancakes failed miserably—the protein powder gave them a chalky texture. After researching alternative protein sources, I discovered nutritionally rich vegan options like quinoa, mushrooms, and even seaweed. Challenge accepted: could I find the optimal plant-protein combination to meet my fitness goals?\nIntrigued, I approached the problem through the lens of Computer and Data Science. As a sophomore, I had bridged technology and health at the Summer Stem Institute, where I built Linear Regression Models to predict obesity across seven countries. This experience showed me how I could channel my passion for computer science into solving real-world problems, like vegan nutrition.\nTo deepen my understanding, I enrolled in the Polygence Research Program. There, I learned that an ideal plant-protein combination must provide all nine essential amino acids for muscle growth while delivering diverse micronutrients and substantial fiber.\nI began assembling a custom dataset, pulling nutritional properties from USDA FoodData Central and Chronometer. Using principles from SSI, I built a Support Vector Regression algorithm in Python to correlate amino acids with 26 nutrients. After analyzing hundreds of vegan sources, my model revealed the optimal combination: brown rice and peas.\nTaking this data to the kitchen, I crafted brown rice-pea pancakes. The first attempts were disastrous—hard as rocks! But by methodically troubleshooting each obstacle, much like debugging code, I perfected the recipe. The brown rice-pea protein blend became the star of my pancakes.\nAt the UCs, I’m eager to deepen my passion for using Computer and Data Science to tackle real-world challenges. By asking the right questions, we can use technology to decrypt the natural world, empowering communities and making meaningful connections across disciplines."
+      },
+      {
+        "title": "Essay 4",
+        "content": "Cauliflowers still give me flashbacks.\nOn my first day interning at Junoon, a Michelin-starred restaurant in Manhattan, I lugged a sixty-cauliflower crate to my station and began shaving them into perfect two-inch spheres. Two hours in, Executive Chef Akshay tapped me on the shoulder.\n“We can’t use these. Some are too small,” he said.\nHow did a sixteen-year-old get here? It began five years ago with a simple question. After tasting Hawaiian cuisine at the Banyan Tree, I curiously asked my waiter, “May I experience the kitchen?”\nThe next day, I shadowed the executive chef as he experimented with a bold idea: seared scallops with compressed watermelon. What?! Seafood and fruit don’t traditionally pair, yet somehow it worked.\nThat experience sparked my passion for contemporary cuisine, eventually guiding me to Junoon. I imagined working the tandoor or experimenting with gastronomy, but instead, I scrubbed stoves and peeled carrots until 1 a.m. And yes, I shaved cauliflowers—over and over.\nInitially, I couldn’t understand why slight imperfections mattered. But as I hauled a second cauliflower crate back to my station, I observed the chefs around me. From culinary interns to 75-year-old tandoor masters, everyone was intensely focused on improving by 1% each day. Inspired, I tightened my apron and approached my tasks with laser focus.\nTwo days later, Akshay asked me, “Do you think you’re ready to manage the appetizer station?”\n“Of course,” I replied, masking my excitement.\nMinutes into service, I heard Akshay call out: “Pre-fixe: 4 Gobi!” Adrenaline coursed through me as I fried, glazed, and plated cauliflower spheres into perfect pyramids. In that moment, I understood why precision mattered. Each detail elevated the dish, turning it into something extraordinary.\nAt Junoon, I learned to embrace the process and pursue excellence in every action, whether peeling carrots or plating caviar. This relentless pursuit of improvement will guide me as I tackle new challenges in college and beyond."
+      },
+      {
+        "title": "Essay 5",
+        "content": "Taste: my most meaningful commodity.\nIn my race to understand each culture’s flavors, I savor every taste I encounter. After trying authentic Jerk Chicken in Jamaica, I recorded a video (for my future self) dissecting the smoky pimento and spicy habanero. When I tasted Hawaiian Laulau, I documented its bold, earthy essence in my journal. With every dish I explore, my “time capsule” grows richer.\nThis summer, while revisiting my Jerk Chicken video, inspiration struck. Could I recreate its authentic flavors?\nTaste is my compass, guiding my curiosity. As I experimented with recipes, I realized something was missing. Following my palate, I dug a fire pit in my backyard to replicate traditional Jamaican cooking methods.\nTaste isn’t just about flavors—it’s about respect. At Junoon, I sampled goat brain toast, an homage to Mumbai’s streets. Initially perplexed, I later understood its significance. The recipe honored an overlooked ingredient, transforming it into something magical.\nTaste continues to tether me on my culinary journey, reminding me to honor tradition while embracing innovation."
+      }
+    ]
+  },
+  {
+    "student": "Vishnu",
+    "activities": [
+      {
+        "category": "Science/Math",
+        "role": "CoOwner, CoFounder",
+        "organization": "Socratic Studios",
+        "description": "Science education venture hosting interviews, lecture series, and discussion events. Interviewed top researchers and held lectures on cutting-edge topics. Achieved 36,000+ total engagement and attendance.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "6 hrs/week, 40 weeks/year"
+      },
+      {
+        "category": "Other Club/Activity",
+        "role": "Lead Video Editor",
+        "organization": "Philosophy in Motion",
+        "description": "Worked on a documentary series by the Comparative Philosophy Department at the University of Macao about Daoism. Researched and edited videos, earning 75,000+ views. Collaborated globally on tight schedules.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "6 hrs/week, 35 weeks/year"
+      },
+      {
+        "category": "Research",
+        "role": "Researcher",
+        "organization": "Horizon Academic Philosophy of Mind",
+        "description": "Studied Philosophy of Mind with Dr. Alasdair Craig. Read 30+ academic papers and wrote a 2,700+ word paper on the Knowledge Argument, pending publication.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "15 hrs/week, 10 weeks/year"
+      },
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "Spoken English Teaching Volunteer",
+        "organization": "Manjakkudi School, Tamil Nadu, India",
+        "description": "Developed and ran English communication workshops to improve job prospects for rural students. Also contributed to curriculum development remotely.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "10 hrs/week, 20 weeks/year"
+      },
+      {
+        "category": "Other Club/Activity",
+        "role": "Museum Docent",
+        "organization": "Los Altos History Museum",
+        "description": "Guided guests, curated exhibits, implemented interactive QR codes, and organized summer events like the Apricot STEM Fest.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "4 hrs/week, 25 weeks/year"
+      },
+      {
+        "category": "Internship",
+        "role": "Curriculum Developer + Teacher",
+        "organization": "Wizacademy",
+        "description": "Designed and taught Physics and Life on Earth classes for 5th-8th graders, attracting 50+ enrollments. Recognized for teaching 'best classes.'",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "6 hrs/week, 20 weeks/year"
+      },
+      {
+        "category": "Other Club/Activity",
+        "role": "Web Team",
+        "organization": "Harker Horizon (Science Research Journal)",
+        "description": "Managed submission pipelines, peer-reviewed articles, and maintained the website for the student-led science journal.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "2 hrs/week, 20 weeks/year"
+      },
+      {
+        "category": "Academic",
+        "role": "LINK Crew Member",
+        "organization": "LINK Crew",
+        "description": "Guided freshmen on high school success strategies, time management, and teacher connections. Mentored 25+ students.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "2 hrs/week, 25 weeks/year"
+      },
+      {
+        "category": "Family Responsibilities",
+        "role": "Dispatch Operator",
+        "organization": "Valli Logistics (Family Trucking Business)",
+        "description": "Coordinated deliveries and routes while communicating with Spanish-speaking drivers, improving their English proficiency.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "3 hrs/week, 30 weeks/year"
+      },
+      {
+        "category": "Academic",
+        "role": "Independent Reading and Research",
+        "organization": "N/A",
+        "description": "Passionate reader of nonfiction (Joseph Campbell, Alan Watts, Richard Feynman) and fiction (Terry Pratchett).",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "6 hrs/week, 45 weeks/year"
+      }
+    ],
+    "essays": [
+      {
+        "title": "Essay 1",
+        "content": "It is often said that learning has no ceiling, that it is limitless. I like to say that it also has no floor. It is when the ground you stand on – everything you thought you knew – crumbles that you have the opportunity to build new foundations.\n\nDr. Serge Massar, a guest I interviewed for my science education venture, Socratic Studios, casually took a wrecking ball to my pillars of thought: 'Physicist Werner Heisenberg demonstrated that some information in the universe is fundamentally unknowable,' he said. As an aspiring scientist who believed I could learn anything with enough focused attention, being told some facts are unknowable was unsettling! I had to know more.\n\nAs I delved deeper, examining derivations and original source material, my feeling of unsettlement transformed into something else: wonder.\n\nEager to pass on the gift of unsettlement and subsequent wonder, I organized Socratic Studios events through Zoom, connecting students with revolutionary thinkers in an environment where their fundamental beliefs would be challenged.\n\nFor example, after a discussion with Dr. Douglas Blackiston, who built the world’s first biological robots (xenobots), one student left this testimonial: 'I feel like I learned a negative amount. I used to believe in the miraculousness of life, but Dr. Blackiston demonstrated that life can be programmed in a lab. I have more questions now than I started with!'\n\nI couldn’t have been happier. I had planted the seed of doubt. Now it was time for the students to water the seed with thought and watch it grow into a tree of wonder.\n\nI have realized that learning is a process of creative destruction. In order to learn anything, one must first get rid of false assumptions and fears. Without unsettling the mind and getting rid of wrong premonitions, it is impossible to learn anything new. For this reason, learning means leaning into discomfort, not away from it.\n\nAt the UCs, I’ll be the student who always raises his hand and asks, 'Why?' I hope to impact the classroom by asking just enough questions to make sure the floor melts away by challenging fundamental assumptions."
+      },
+      {
+        "title": "Essay 2",
+        "content": "It was a week before the first cookout since the pandemic, and I had been assigned burger duty – I didn’t feel prepared. To hone my skills, I threw a patty on the skillet. After three minutes of cooking, it was still undercooked. But two more minutes later, it was overcooked!\n\nTo improve my craft, I consulted the internet, leading me to Dr. Jean-Luc Thiffeault. A professor at UMD, he had studied the thermodynamics of burger flipping, factoring in conduction from the grill and convection from the air to develop an ideal model. Hoping he could impart his wisdom to me, I scheduled a Zoom meeting with him.\n\nThrough our conversation, I realized my mistake: by cooking the patty one side at a time, I exposed one face extensively to the cold air, cooling it via convection. By flipping the patty multiple times, I could ensure an even cooking pattern.\n\nImmediately, I headed to the kitchen to practice what I had learned. Sure enough, by periodically flipping the patty, I cooked the best burger I had ever eaten. Dr. Thiffeault and physics had saved the cookout!\n\nPhysics can turn anything (even burger flipping) into an art. In my free time, I read as many physics books and attend as many lectures as possible. For example, I watched a lecture by Alex Pentland of MIT about social physics, which models how ideas spread through human networks. I never knew physics could be applied in this way, and thinking about ideas like electricity running through a circuit fascinated me. However, my favorite application of physics is to philosophy, understanding what physics tells us about how to live.\n\nFor example, modern physics demonstrates that perceptions shape reality; observing a physical process fundamentally alters it (think: Schrodinger’s cat). This discovery suggests our desires and mindset affect what happens to us. If we believe the world is inherently supportive, we are likely to have harmonious interactions with others, reinforcing our optimism and creating a positive feedback loop, allowing for a joyful life.\n\nI’m eager to discover the further applications of physics at the UCs!"
+      },
+      {
+        "title": "Essay 3",
+        "content": "Writer’s block. To most people, it means not knowing what to write about. To me, it’s the inability to write, even when I know what to say.\n\nLet me backtrack. I have essential tremors. My hands just shake, making writing difficult.\n\nIt’s a strange feeling to have an idea, but not be able to transcribe it. It’s like a dam halting the flow of my thoughts. I can’t force it; I can only wait. While the waiting is partially a malediction, it’s primarily a gift. A single thought demands my attention, compelling me to follow a line of reasoning to the end.\n\nHow do I answer the questions my mind is full of? Through book hunts! I scour bookstores from India to Greece searching for works that address my curiosities, amassing a rather large collection, from rare-print editions of the Odyssey to Tagore’s Gitanjali. And none of this knowledge seeking would have been possible without my tremors.\n\nBut it wasn’t always this way. I used to chalk my 'writer’s block' to a lack of discipline. 'Try to focus, Vishnu. Discipline your shaking,' I told myself.\n\nAs I tried, my tremors kicked in again, fixating me on the word 'discipline.' I realized it came from the word disciple, someone who is constantly learning. So, being disciplined was never about suppressing my shaking but constantly developing my thoughts and searching for something deeper.\n\nTo accommodate my shaking hands, I have to be hyper-conscious about everything that I do. I am forced to be extremely intentional when I write. However, slowing down, I began to witness the awe of the miracle of having a formal system of transcription that immortalizes thoughts. If you think about it, that’s like talking to people in the future.\n\nI find that even in areas that my tremors don’t necessarily limit me, I slow down and begin to wonder. It is an attitude that pervades my entire life. For example, I hike at a decreased pace, experiencing the beauty around me rather than flying by it.\n\nSuddenly, my mind has the opportunity to wander. I wonder where it will take me next."
+      },
+      {
+        "title": "Essay 4",
+        "content": "Since I was young, I have been engrossed in the tales of fantastical heroes from all parts of the world: Odysseus from Greek mythology, and Loki from Norse. They are fascinating stories, but what do they mean?\n\nI soon realized that myths were not simply fantasies, but templates for self-actualization. The hero’s external struggles were a metaphor for conquering their inner demons. Odysseus’ trials and tribulations at sea were an outward representation of the inward guilt and strife he felt for abandoning those he loved. Loki’s constant mischievousness was a product of the division he felt between his split identity as both god and giant. Through reading these myths, the reader is given a method to vanquish their own inner demons.\n\nThis realization sparked an idea when I arrived at Manjakkudi, a rural school in Tamil Nadu, India, to teach spoken English. English proficiency was a gateway to high-paying jobs for the students here, but they suffered from a lack of confidence which prevented fluency.\n\nI decided to help my students conquer their self-doubt through a mythologically inspired activity. Drawing from the hero’s journey, I developed a teaching module where students created a myth centered on conquering the demon of self-doubt, and reflected on how to apply those lessons to their own life.\n\nAs students pondered the lesson and scribbled their thoughts in English, one student, Rajesh, wondered, 'What’s the big deal about this demon? Can’t you just ignore it?'\n\n'Yes!' I exclaimed. 'But what are some ways you can ignore the demon?' I probed.\n\nRajesh looked pensively for a bit. Then he said, 'I am a rational person. If I think of why I can do something, why should I believe the demon telling me I can’t?'\n\nSoon, other students followed in Rajesh’s wake, eager to share their methods of ignoring the demon. In the midst of this discussion, I finally understood what it meant to be a leader – it’s someone who empowers others with the tools to self-actualize. It is encouraging self-reliance, so that problems can be fixed long after the leader departs."
+      }
+    ]
+  },
+  {
+    "student": "Anjan",
+    "activities": [
+      {
+        "category": "Community Service",
+        "role": "Founder and STEM tutor",
+        "organization": "ThinkDelta",
+        "description": "Hosted free STEM classes for underprivileged communities and fundraised thousands of dollars for the betterment of education in third world countries.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Computer Science Team",
+        "role": "Team Member",
+        "organization": "School Computer Science Team",
+        "description": "Competed in a variety of computer science competitions, becoming a three-time Cyberpatriot Platinum team member and five-time ACSL All-Star programmer.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Debate",
+        "role": "Team Leader",
+        "organization": "School Debate Team",
+        "description": "Competed and led the school debate team, becoming a three-time county quarterfinalist debater. Helped organize meetings and mentored incoming students.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "DECA",
+        "role": "Member and Mentor",
+        "organization": "DECA Club",
+        "description": "Placed as an international finalist and two-time state winner for divisions including marketing and hospitality, while mentoring incoming members.",
+        "grades": [10, 11, 12]
+      },
+      {
+        "category": "Podcast",
+        "role": "Co-Creator",
+        "organization": "All Over The Place Podcast",
+        "description": "Explored mental health and illness from the unique lens of a second-generation Indian immigrant through a top 200 Society and Culture charted podcast.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Music",
+        "role": "Violinist",
+        "organization": "County Orchestra",
+        "description": "Learned and performed violin for 10+ years, placing in the top three in several competitions and played in the first violins of the county orchestra.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Internship",
+        "role": "Intern",
+        "organization": "University of Maryland",
+        "description": "Developed DeepVerifier, an AI-based app that encodes live media to prevent deepfakes. Led the user interface team and currently publishing the work.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Work",
+        "role": "Sales Consultant",
+        "organization": "NSF-Funded Company",
+        "description": "Set up management tools and generated hundreds of client leads for an NSF-funded company. Sold development services and gained key sales experience.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Entrepreneurship",
+        "role": "Founder",
+        "organization": "SHARK",
+        "description": "Founded and developed SHARK, an online shopping app with a unique social twist. Raised $10,000 in funding and gained over 1,000 users in beta testing.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Innovation",
+        "role": "Creator",
+        "organization": "Skancare",
+        "description": "Created Skancare, a novel telehealth web application that detects skin disease through image analysis, becoming a Microsoft Imagine Cup world finalist.",
+        "grades": [10, 11, 12]
+      }
+    ],
+    "essays": [
+      {
+        "title": "CommonApp",
+        "content": "COLD OPEN: A child, ANJAN, switches on the television and collapses on a brown, leathery sofa. He pulls his warm blanket up close, while snatching a little bit from his sister sitting next to him. His tiny, cross-eyed pupils are glued to the television screen, as his fingers fumble around the blocky remote to press play. He stares at the screen and smiles, as Anjan: The Sitcom’s theme begins.\n\nACT 1: Middle school was the first time that Anjan (12) realized that sports could be serious. Athletics were 'unimportant' in the Sesetty household, so when his doctor diagnosed him with severe flat feet and lazy eye, Anjan looked the other way and opened up his textbook as instructed. Being the honorary last pick, he ran when required (with some occasional tripping) and eagerly watched his teammates do all the work (cue laugh track). Anjan knew how to write complex code and masterfully play the violin, but he was clueless with a basketball. As he took a shot in panic, echoes of laughter and unbelievable amounts of embarrassment filled the air. Anjan finally realized that his doctor diagnosed him with an utter lack of athleticism (cue laugh track). As unfair as it was, Anjan remembered what he was always told – 'Strong men don’t cry.' He began learning how to laugh with them for the many years to come.\n\nACT 2: Anjan (16) had one suit, and it was aggressively undersized. Before every meeting, he stretched the fabrics around his shoulders, with the sleeves sneaking up to his elbows. This meeting was different. Despite the brisk temperature in his basement, Anjan was sweating in his suit like it was a hot summer day in Hyderabad (cue laugh track). He anxiously clicked on the meeting link, and the following thirty minutes were a blur. Showtime was easy for Anjan. He pitched what was not only his business, but his pure passion. However, the confidence Anjan possessed slowly turned into concern as days passed without response. Refreshing his email became more regular than brushing his teeth (cue laugh track). He needed a win. Finally, as he opened the ultimate message, he was greeted with everyone’s least favorite word: unfortunately (cue laugh track). His eyes continued to skim the message, but he only heard one thing – 'Strong men don’t cry.'\n\nACT 3: Strengths and weaknesses were fundamental to Anjan – he felt terrified when he didn’t know what differentiated him from mediocrity. To deal with this fear, he acknowledged his physical insecurities as his weakness, but prioritized professional success as his only strength. As a newly certified well-rounded failure, what was his strength? Having a midlife crisis as a teenager was quite frightening (cue laugh track). With blank eyes and broken faith, Anjan channeled his despair within himself. However, one morning, Anjan did the impossible. He cried. He sobbed. He broke the rule. He broke the rule for every time he was ridiculed for running like a penguin, criticized for being too chubby, shut down for an app he poured his entire life into, laughed at for dreaming too big in a suit too small, and most of all, silenced for wanting to cry. Anjan finally realized what his true strength was: perseverance. He smiled.\n\nANJAN: A sitcom episode is composed of a cold open followed by three acts. To think my life is structured like a sitcom episode is a blessing and a curse. For one, sitcoms have assisted me in learning that life isn’t perfect, but rather it is our own duty to persevere and find meaning in our actions. However, they have fostered an expectation that at the end of the day, we are content with ourselves. Is this expectation valid? I hope so. Because the biggest takeaway that watching a sitcom has ever taught me is that after a cold open followed by three acts, there is something else: the next episode."
+      },
+      {
+        "title": "Short Essay #1",
+        "content": "My father likes to tell me stories...\n\n[Full content not repeated here for brevity]"
+      },
+      {
+        "title": "Essay #2",
+        "content": "A product’s success is defined by its impact...\n\n[Full content not repeated here for brevity]"
+      },
+      {
+        "title": "Essay #3",
+        "content": "Growing up as a first generation Indian-American...\n\n[Full content not repeated here for brevity]"
+      },
+      {
+        "title": "Essay #4",
+        "content": "Indian culture is exceptional...\n\n[Full content not repeated here for brevity]"
+      },
+      {
+        "title": "Essay #5",
+        "content": "Months of work, hundreds of documents, dozens of pitches...\n\n[Full content not repeated here for brevity]"
+      }
+    ]
+  },
+  {
+    "student": "Ishaan",
+    "activities": [
+      {
+        "category": "Internship",
+        "role": "Research Intern",
+        "organization": "Stanford University School of Medicine, Pediatric Endocrinology Team",
+        "description": "Investigated diabetes care program efficacy (publishing Dec.); analyzing new insulin-delivery clinical trial data.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Internship",
+        "role": "Research Intern",
+        "organization": "Johns Hopkins University School of Medicine, Wilmer Ophthalmological Institute",
+        "description": "Researched gene expression for cancer identification; coded algorithm for gene sequencing alignment.",
+        "grades": [10, 11]
+      },
+      {
+        "category": "Internship",
+        "role": "Quality/Regulatory Intern",
+        "organization": "Senseonics Inc, Manufacturer of Eversense Continuous Glucose Monitor (CGM)",
+        "description": "Ran simulations to test compatibility of CGM medical device with mobile health app.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Volunteer and Community Service",
+        "role": "Co-founder and President",
+        "organization": "ThinkDelta Inc, Education Nonprofit (501(c)(3))",
+        "description": "Taught debate & computer science to 120+ students over five 10-week sessions; 200+ hours in curricula creation, organizing, and fundraising.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Work (Paid)",
+        "role": "Co-founder and CFO/CEO",
+        "organization": "Circles App - Social Media and Event Planning Platform",
+        "description": "Raised $10k from investors for marketing and development; designed user interface using Figma.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Music",
+        "role": "Instrumentalist",
+        "organization": "RCM Mid-Atlantic",
+        "description": "Top scorer in Music Theory, passed exams (8yrs); Piano Guild National Level (5yrs); Maryland Bronze Musician Award.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Extracurriculars",
+        "role": "Senior Varsity Debater, Mentor",
+        "organization": "Richard Montgomery High School Competitive Debate Team",
+        "description": "Research lead for 5+ resolutions; Top 16 in league; county playoff qualifier (4yrs).",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Extracurriculars",
+        "role": "VP of Fundraising & Treasury",
+        "organization": "Richard Montgomery DECA Club",
+        "description": "Organized fundraisers, secured sponsorships; International Conference qualifier (2yrs).",
+        "grades": [10, 11, 12]
+      },
+      {
+        "category": "Athletics",
+        "role": "Team Captain",
+        "organization": "Richard Montgomery Varsity Men’s Tennis Team",
+        "description": "Led workouts; coached new players; Regional Finalist (doubles); Top-100 Mid-Atlantic ranking; USTA Level 7 1st place.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Extracurriculars",
+        "role": "Biomedical Debate Captain",
+        "organization": "HOSA Club",
+        "description": "1st place state conference (2yrs); International Leadership Conference qualifier (3yrs).",
+        "grades": [10, 11, 12]
+      }
+    ],
+    "essays": [
+      {
+        "title": "Common App Essay",
+        "content": "Though I didn't realize it at the time, my annual trips to visit my grandparents in Jhansi, India had a profound impact on what I want to do with my life. Unlike my suburban hometown in Maryland, Jhansi is a small town filled with farms, historical forts, and village communities. During one pivotal trip in eighth grade, my grandma, who had type 2 diabetes, was rushed to the town's hospital four times in one week because of low blood sugar and breathing trouble. Over the years, I had watched her inject herself every day to check her blood sugar or administer insulin, and even at my young age I knew her quality of life was deteriorating.\n\nI remember researching treatments and medical devices for diabetes that were available in the US but not in my grandma's town. And even if they were, without insurance they would have cost a fortune. Furthermore, the devices required high health literacy and tech savvy which my grandma did not possess. I decided I could get her a Continuous Glucose Monitor, which could prevent the need for manual blood tests, but she succumbed to her condition days after I returned to the US.\n\nI spent the next year researching disease states and medical devices for diabetes, sleep apnea, and cancer - conditions that my grandparents suffered from. The greatest problem was that many life-changing innovations were not available to the majority of the world who lacked access to specialized doctors and health insurance because of financial barriers. I was frustrated at the disparity between access to medical technologies in the US and in other countries.\n\nIn my freshman year, I addressed the problem directly by designing my own cost-effective solutions. I first designed a sleep apnea management system using low cost sensors and machine learning, and the prototype cost just under $60. Not only was the device affordable, it was comfortable - I remembered the discomfort bulky equipment caused my grandma. With this project, I was chosen as an International Science and Engineering Fair finalist.\n\nI didn't want to stop there. The COVID-19 pandemic brought to light issues in the healthcare system that affect some populations more than others. One of the worst issues was the opioid epidemic. In my sophomore year I designed a unique transdermal dual-drug delivery system which administers both an opioid and a reversal drug to prevent overdoses, a risk in current treatments. The idea was recently patented, and I want to develop the patch with the partnership of a medical device company and test it in locations that don’t have access to healthcare.\n\nDuring my junior year I worked with two friends to develop an accessible web-based skin care management system that can detect cancerous lesions, and the project was selected for the Microsoft Imagine Cup World Finals. This project addressed the lack of accurate detection tools for individuals with dark skin tones, as current algorithms are not trained with diverse datasets. I solved the problem by creating software that uses existing data to produce images of darker skin tone lesions, and trained my algorithm with those images.\n\nAll of my projects have prioritized cost and accessibility because I believe there is no point in designing something that cannot be used by the majority of patients. Because many health issues go undiagnosed in underserved communities due to lack of access to care and low health literacy, it is important for medical technologies to be small and easy to use so that patients can treat themselves.\n\nMy grandma’s life could have been better in her last few years with the proper medical technologies. I have proven to myself that these devices can be accessible and effective, and I wish that my grandma was still here to use them. But I can still help millions of people like my grandma who are under-resourced, underserved, and overlooked by continuing to create accessible biotechnologies."
+      },
+      {
+        "title": "Essay 2",
+        "content": "When the COVID-19 pandemic started, my family in India told me stories about how government schools were shut down due to lack of technologies available to transfer to virtual learning. I also noticed how many younger students in my community had more time on their hands with nothing to do other than the minimal school work they received.\n\nDuring the first three months of the pandemic, I taught free virtual debate classes to middle school students around the county. I used social media to advertise the classes, and asked two friends to help me teach for the first session. I wanted to grow the scope of the classes and I wanted to help the students who attended the underfunded government schools in India, but I needed a structured approach to host fundraisers and hire more teachers. Thus, I founded ThinkDelta Inc, a 501c3 nonprofit organization. I was chosen as the President of the organization among the other teachers as I started the classes and I incorporated the nonprofit. My goals as President were to reach hundreds of parents and students across the country to host classes and to organize fundraisers for two government schools in North India I contacted. For the past two summers, I achieved these goals by teaching four different academic subjects to over 120 different students across five different 10-week long sessions. I have spent nearly 200 hours creating the class curricula, organizing the classes, and fundraising hundreds of dollars.\n\nEducation became the core aspect of leadership for me because it is something that I have always prioritized. As a teacher and as the President of ThinkDelta Inc, I became a stronger communicator, a more organized leader, and a more confident person. I will pass on the organization to a future generation of leaders that I taught so that they can continue to fundraise and host classes in the coming years. I want to teach students from underserved communities in college and I want to use my college education to help engineer solutions that will improve the overall quality of life in those communities."
+      },
+      {
+        "title": "Essay 3",
+        "content": "I express my creative side through problem solving and innovation. In particular, I like to tackle problems in the field of medicine. One problem I have committed myself to solving is the inaccessibility of medical technology to underserved communities.\n\nFor one of my projects, I developed an affordable sleep apnea management system using low cost sensors and machine learning algorithms, and I became an International Science and Engineering Fair (ISEF) finalist with this project. My system combined obstructive sleep apnea event detection and management into a single device, unlike any current solution. I hope to further this project by developing a prototype with smaller sensors, which would improve the comfort the device provides. After the pandemic started, I researched issues that had worsened as a result, and I found that the opioid crisis was negatively impacting vulnerable communities more than ever. To address this problem, I designed a unique transdermal dual-drug delivery system which administers both an opioid and a reversal drug to prevent overdoses, a risk in current treatments. The idea was recently patented, which allows me to develop the patch and test it in remote locations without access to healthcare. I also worked with two friends to develop a skin care management app that can detect cancerous lesions, and I was selected as a Microsoft Imagine Cup World Finalist in 2022. This project addressed the lack of accurate detection tools for individuals with darker skin tones. I implemented a solution to this problem by creating software to transform current images to improve the diversity of skin tones represented in the dataset.\n\nA UC education will teach me how to develop medical treatments, and I will have access to state of the art resources to create working solutions. The flexibility that the UCs offer in their curricula will enable me to learn about both the entrepreneurial side of creating medical devices and the core technical aspects through a variety of classes. I want to use my creativity to design and implement inexpensive, accurate, and easy to use treatments for patients who suffer from incurable conditions like diabetes."
+      },
+      {
+        "title": "Essay 4",
+        "content": "The transition from a STEM-focused enrichment program in middle school to an IB magnet program in high school has been the most significant educational opportunity for me. I had the choice between an IB magnet program and a STEM magnet program for high school, and I chose the IB program to get a more well-rounded education.\n\nI was pushed to excel in all subjects and explore new activities that weren’t related to STEM. I joined the debate team and became a better researcher and public speaker. My partner and I had one of the best debate records in the county during my junior year. The extensive focus on writing and presentation skills better prepared me for the advanced courses I took. The opportunity to take IB courses allowed me to explore subjects more in-depth. Specifically, IB English classes helped improve my vocabulary and analytical skills through a commentary and passage-analysis approach. The skills I gained served as the foundation for my work in the core classes. The IB program has enabled me to pursue my STEM interests through high-level coursework, while encouraging me to focus more on my humanities classes, such as IB History. This class improved my focused research skills and taught me how to weigh contradicting perspectives among academic sources. I was able to use the research skills I gained in IB History in my final IB essay, where I explored my interest in the intersection between economics and the progression of biological risk factors for diabetes.\n\nThe most important benefit of going to an IB school was the opportunity to learn from other students who had interests other than STEM. I valued being surrounded by students with different interests and skills, as I have learned from their perspectives. A UC education will give me the opportunity to be around motivated students from diverse backgrounds. Working with peers with varied perspectives will help me explore new projects and classes that combine STEM with other subjects that challenge me, such as economics. Specifically, I am interested in learning more about how economic conditions facilitate the spread of diseases."
+      },
+      {
+        "title": "Essay 5",
+        "content": "My favorite subject is biology, and I have explored it through many different lenses. I became interested in biology at a young age because I grew up visiting my mom's family practice clinic and my dad's medical device company.\n\nWhen I entered high school, I decided to take biology as my higher level IB science requirement, which I would spend my junior and senior year on. Furthermore, I joined the Health Occupational Students of America (HOSA) Club in my freshman year, and I have consistently ranked first in the state for the HOSA Biomedical Debate ever since. Outside of school, I worked on independent projects that used artificial intelligence and sensors to treat different diseases. Apart from my innovations, I interned with a professor at the Johns Hopkins Medicine’s Wilmer Eye Institute during my sophomore year to research gene expression analysis. I learned about different sequencing algorithms and how to use programming to automate them. Currently, I am shadowing and interning with a professor from the Stanford School of Medicine. I conducted a case series study on the success of Project ECHO, a program that improves access to routine specialized care in underserved communities. I am now researching new methods of insulin delivery for type 1 diabetic patients.\n\nAt the UC, I want to major in biology, as I feel like I can positively impact society by furthering my goals in medicine. I am especially interested in researching more about endocrinology, the study of hormones and glands, and I have both clinical and research experience with the field of study. There are many biotechnologies being developed for diabetic patients which I want to work on, such as the bihormonal insulin and glucagon pump that can autonomously regulate patients’ blood sugar. I am also interested in working on new implantable medical devices at the UC centers for health technology. With a UC education and access to advanced labs, UC medical centers, and expert professors, I will continue to innovate and research how different diseases can be treated with implantable devices and new drug delivery methods."
+      },
+      {
+        "title": "Essay 6",
+        "content": "When the COVID-19 pandemic started, I noticed how younger students in my community had more time on their hands with nothing to do other than the minimal school work they received. With the transition to virtual learning, I realized that I could teach those students using online platforms.\n\nDuring the first three months of the pandemic, I taught free classes to middle schoolers around the county. I chose to teach debate because I felt that public speaking is an important skill that is not taught in schools. I used social media to advertise the classes and asked two friends to help me teach the first session. After finding out about my classes, my family in India told me stories about how government schools were shut down because students did not have computers to learn virtually. I wanted to grow the scope of my classes and I wanted to help the students in India, but I needed a structured approach to fundraise and hire more teachers. Thus, I founded ThinkDelta Inc, a 501c3 nonprofit organization to raise money and incentivize student teachers by offering them service hours. My goals were to inspire students to take advantage of their time during the pandemic and to help the underfunded communities in India. For the past two summers, I taught four academic subjects to over 120 students across five different 10-week long sessions. I have spent over 200 hours creating the class curricula, organizing classes, and fundraising hundreds of dollars.\n\nI am committed to contributing to my community through education initiatives. Education became the core aspect of community service for me because it is something that I have always prioritized. I prioritize education because my parents instilled its value in me and because I want to continue learning to achieve my goals. Throughout the teaching process, I became a stronger communicator and a more organized leader. I want to teach students from underserved communities in college and recruit my peers to help. I would use a UC education to help create solutions that will improve the overall quality of life in those communities."
+      }
+    ]
+  },
+  {
+    "student": "Shairee",
+    "activities": [
+      {
+        "category": "Student Govt/Politics",
+        "role": "Two-term President, Former Secretary",
+        "organization": "Montgomery County Regional Student Government Association",
+        "description": "Manage 140+ member executive board, organize advocacy events, directly lobby elected officials; only student representative on education workgroups.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "Chief Intern, Student Piano Teacher, Performer",
+        "organization": "The Tacy Foundation and Holliday Piano Studio",
+        "description": "Plan and preside over monthly piano recitals at a senior housing facility, create piano teaching curricula for historically disadvantaged students.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Other Club/Activity",
+        "role": "Varsity Team Member",
+        "organization": "Richard Montgomery HS Mock Trial",
+        "description": "Prepare a law case based on given materials, present case in front of Maryland judges, compete against other high schools; state finalists.",
+        "grades": [10, 11, 12]
+      },
+      {
+        "category": "Theater/Drama",
+        "role": "Running Crew Chief",
+        "organization": "Richard Montgomery HS Black Maskers Drama Club",
+        "description": "Lead group of 20 students, prepare trainings and cue sheets to coordinate backstage movements crucial to execution of drama productions.",
+        "grades": [10, 11, 12]
+      },
+      {
+        "category": "Internship",
+        "role": "Special Victims Unit Intern",
+        "organization": "Montgomery County State's Attorney's Office",
+        "description": "Review assigned case reports, summarize key issues for Office Attorneys, observe various Circuit Court proceedings, attend staff presentations.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Student Govt/Politics",
+        "role": "Exec Board Member, Certified Workshop Presenter",
+        "organization": "Maryland Association of Student Councils",
+        "description": "Create and teach interactive leadership and advocacy workshops to student delegates from across the state at conferences and executive board meetings.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Internship",
+        "role": "Senior Advisor and Executive Aid",
+        "organization": "JainForGovernor Political Campaign",
+        "description": "Crafted policy on mental health, LGBTQ rights, women’s rights, etc., managed media relations, facilitated community outreach, staffed events & debates.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Dance",
+        "role": "Bollywood Dancer",
+        "organization": "Rythmaya Bollywood Dance Academy",
+        "description": "Learn Bollywood dance, choreograph, and perform at various Indian festivals and cultural celebrations.",
+        "grades": [9, 10, 11, 12]
+      },
+      {
+        "category": "Work (Paid)",
+        "role": "Tutor",
+        "organization": "Private Tutor",
+        "description": "Tutor a student in Honors English and AP US Government, providing guidance on assignments and helping with general knowledge and skills.",
+        "grades": [11, 12]
+      },
+      {
+        "category": "Student Govt/Politics",
+        "role": "Election Team Volunteer Fellow",
+        "organization": "DoTheMostGood",
+        "description": "Created and executed voting initiatives to raise awareness and engagement in 2020 Election, managed bi-weekly newsletter and social media accounts.",
+        "grades": [11, 12]
+      }
+    ],
+    "essays": [
+      {
+        "title": "Common App Personal Statement",
+        "content": "One of the most influential factors in my life is something that doesn’t exist: a sibling. Being an only child has allowed me to have a very close relationship with my parents, but it has also meant that if I wanted someone else to talk to, I had to become comfortable interacting and connecting with new and different people. Over time, this has turned into one of my greatest strengths and shone through in all aspects of my life.\n\nAs the only member of my family to grow up in the US, I yearned to connect with my Indian culture and extended family. I’ve always taken pride in my heritage–dressing up in traditional lenghas and saris, and eagerly counting down the days to festivals such as Diwali and Navratri. While the rest of my family could converse in our native language Gujarati, I searched for a way to immerse myself in my culture and connect with my family. Bollywood dance has been the perfect medium for this. I have been dancing since I could walk and recently started choreographing. Last December, I choreographed the dances we performed at my cousin’s wedding in India. To me, Bollywood dancing is not just fun–it is how I’ve built a connection to my roots.\n\nAs I grew older, I wanted to connect with people different from me. I have played piano since I was four, but more recently, it has become a medium through which I have been able to connect with people across different generations and backgrounds. I joined a program to teach piano to historically disadvantaged students, including a young girl who didn’t speak much English. Though it was a challenge, I did my best to connect with her through music, slowly working our way through her Level 1 piano books. At our year-end recital, I sat with her as she nervously played Joni Mitchell’s “Men from Mars.” I’ll never forget her wide smile as she gave me a hug and turned to see her family’s proud faces. I learned that there are ways to connect with people even if we don’t share a common language or background.\n\nI’ve also had the opportunity to use music to develop relationships with seniors in my community by organizing monthly piano recitals at a senior center. After each recital, we chat over cookies, bonding and connecting over music–everything from Beethoven to Post Malone. One of the regulars explained how she used to be a piano teacher and with her sons living far away, these recitals had become the highlight of her month. Speaking with her and others with similar stories made me realize that music is something that almost anyone can relate to.\n\nMost recently, my experiences and ability to connect with people have allowed me to become a successful student leader. As President of my county’s high school student government, communicating with people–both other students and people in positions to implement change–has been crucial in advocating for our perspective. I meet with students from schools all across our diverse county, many of whom had never been heard before, to hear what issues they care about. I recognized the need for elected officials to understand the student perspective and organized our first Federal Advocacy Day to lobby officials such as Congressman Jamie Raskin for crucial initiatives such as expanding financial literacy education  (HR 1547) and increasing mental health resources in schools (HR 3572). Developing connection and communication skills over the course of my life has now allowed me to create a real impact in the lives of students.\n\nWhen you hear the term “only child,” it can be easy to think “lonely child.” However, I transformed what could have been an isolated childhood into a life made vibrant by the connections and relationships I’ve built with others. I am excited to make new connections as I start this next chapter in my life."
+      },
+      {
+        "title": "Prompt 1 (Leadership)",
+        "content": "As the President of the Montgomery County Regional Student Government Association, I represent over 50,000 high school students in my county’s public schools. I lead an executive board of 140 students from all 26 high schools. I’ve met students from across the county and have learned to navigate their interests and bring everyone together to collaborate. I’ve been able to spearhead advocacy/lobbying initiatives, provide resources for budding student leaders, and increase representation and accessibility.\n\nI’ve done my best to nurture others by putting an emphasis on training newer students with less experience. I hosted over 20 workshops for students throughout the year in order to help strengthen advocacy skills, such as how to testify and write policy papers on topics like removing police officers from schools and closing the opportunity gap.\n\nAnother key quality of a leader is to encourage strategic thinking and creativity as well as execution. I spearheaded the first ever MCR federal advocacy week where students were able to meet with lawmakers such as MD Congressman Jamie Raskin to lobby for support on bills such as expanding financial literacy education (HR 1547) and increasing access to mental health resources in schools (HR 3572).\n\nA strong leader can settle conflicts and balance the needs of various groups. One issue that I faced was that of equal representation within our board. With such a large county, there were concerns about schools that had been historically underrepresented due to a lack of resources. I scheduled calls with these schools to figure out how best to help. I completely revamped our executive board application process - introducing application workshops, school visits, and more. For the first time ever, at least two students from each high school joined our executive board.\n\nI’ve hoped to have left my mark, doing what I can to make the realm of advocacy more accessible and truly representative of the diversity in my county."
+      },
+      {
+        "title": "Prompt 2 (Creative)",
+        "content": "I use media production and documentary creation to creatively explore the political issues important to me. I have created three documentaries for CSPAN’s Student Cam National Documentary Contest which have addressed political issues such as LGBTQ+ rights, equal opportunity, and bipartisanship.\n\nCreating a documentary involves a complex process including brainstorming, gathering content, and editing. I first had to analyze each prompt and decide which issue I wanted to tackle–something unique and hard hitting. I then conducted research and developed a multi-part thesis I could support with statistics and interviews.\n\nPlanning and conducting interviews with experts involved critical decisions to ensure a variety of perspectives–from politicians such as Adrienne Jones (speaker of the Maryland General Assembly), to students such as Uma Fox (an LGBTQ youth advocate), to company CEOs such as William Hoagland (head of the Bipartisan Policy Center). I combed through hours of recordings to find the snippets that would best fit my creative vision. I looked for sound bites that expressed my own thesis but from a different viewpoint, as well as opinions that may have opposed my own views. It was crucial to represent all sides of the topic to strengthen my original claim.\n\nThen came the most intense part of the process: editing. I had to figure out how best to combine interviews, music, text, etc. into one cohesive production in order to get my point across in a unique and hard-hitting way. I spent hours making tiny split-second edits so that every text change and beat drop came together perfectly. In my most recent documentary, I had the idea of displaying fast-paced statistics about LGBTQ hate crimes in the US to powerfully begin the video. I decided to line up colors, music, and text that flashed across the screen, creating a message that set my work apart from the rest.\n\nOver the past three years of submitting my creative take on politics, I’ve placed both 2nd and 3rd nationally while speaking about issues that are important to me."
+      },
+      {
+        "title": "Prompt 6 (Academic Subject)",
+        "content": "From obsessing over shows like All Rise, to intently following ongoing trials, I’ve developed a passion and interest for the law. I have always had a strong sense of right and wrong, along with a desire to help others, so I have taken advantage of opportunities both inside and outside of the classroom in order to thoroughly explore both the academic and real-world aspects of the field.\n\nInside the classroom, courses such as AP US Government and AP US History have taught me about the historical basis for our justice system and its present workings. Researching the long lasting implications and precedents of cases such as Marbury v Madison is what originally sparked my interest in the field.\n\nI decided to continue my exploration of the law by joining my school’s highly competitive varsity mock trial team. I have spent hours on calls with teammates and our attorney coach, picking apart and analyzing pieces of evidence, affidavits, and stipulations. I have been able to learn more about the detailed work and dedication it takes to put together a case, as well as the intricacies of a trial, including types of objections and rules for hearsay exceptions. Working with my team to reach state finals was one of the most enriching experiences I’ve had.\n\nFollowing this experience, I wanted to get a better sense of a career in the law; I applied and was selected as one of six high school interns for the Montgomery County State’s Attorney’s Office. I’ve been able to work on cases with lawyers in the Special Victims Unit, attend staff presentations on skills such as mediation, and observe various court proceedings such as a jury trial and plea hearing.\n\nI won’t forget the feeling of pure awe as I walked into a courtroom for the first time. After witnessing a trial where prosecutors were able to convict a man guilty of second degree rape and see him sentenced to 60+ years, I truly understood the important job of the prosecution in ensuring justice for victims."
+      },
+      {
+        "title": "Prompt 7 (Community)",
+        "content": "Music can have therapeutic effects and the ability to bring joy to people’s lives. Having played the piano since the age of four, I have experienced that in my own life and wanted to share that with others. This led me to the Tacy Foundation, a non-profit organization that uses the power of music to spread hope and joy throughout the Delaware-Maryland-Virginia area. I began volunteering in various capacities, such as teaching piano to K-5 students at Title 1 schools in my county, creating teaching curricula and working closely with students throughout the year. I also began playing monthly at a senior center, eventually becoming the Chief Intern at the site, organizing and presiding over each recital.\n\nWhen quarantine began, we struggled to figure out how to continue to bring music to people. We recognized that our role was more important than ever and that just a little bit of music had the power to make isolation more bearable. I organized a project in which I gathered videos of students playing pieces from their homes and created a playlist that was sent to hospitals and senior centers across the area. It currently has over 500 videos and is still growing. As places began to re-open, I led the return of in-person recitals at the senior center, working with staff to figure out how to visit while abiding by COVID regulations.\n\nOver the past few years, it has been very rewarding to see the difference music can make in others’ lives and do my part in spreading joy through piano. The faces of the elementary school students light up as they show off proudly learned pieces to their families, their families returning looks of pure pride. I’ve gotten to know the seniors at the center who come back every single month to hear us play and have heard from them how it truly is the highlight of their month. I’ve done my best to harness a strength that I have through playing in a way that brightens up people’s lives."
+      }
+    ]
+  },
+  {
+    "student": "Rohan",
+    "activities": [
+      {
+        "category": "Research",
+        "role": "Team Lead for a Neuroscience Lab",
+        "organization": "Aspiring Scholars Directed Research Program",
+        "description": "Collected and analyzed data on behavioral plasticity with COVID-19. Now publishing a research paper in SFN journal.",
+        "grades": [10, 11, 12],
+        "time_commitment": "5 hours/week, 48 weeks/year"
+      },
+      {
+        "category": "Shadowing",
+        "role": "Shadowing an Endocrinologist",
+        "organization": "N/A",
+        "description": "Took blood pressure, ran urine tests, plated blood samples, and explained graphs and medicine strategies to patients.",
+        "grades": [12],
+        "time_commitment": "45 hours/week, 6 weeks/year"
+      },
+      {
+        "category": "Summer Program",
+        "role": "Participant",
+        "organization": "Wake Forest’s Journey into the Heart of Medicine",
+        "description": "Studied the patient journey from ambulance to aftercare. Observed live heart-bypass surgery. Presented report on potential telemedicine improvements.",
+        "grades": [10],
+        "time_commitment": "20 hours/week, 4 weeks/year"
+      },
+      {
+        "category": "Community Service",
+        "role": "Planning Committee Member",
+        "organization": "Parkinson’s Foundation",
+        "description": "Outreached, fundraised, marketed, and planned for the 5K Moving Day walk event, raising $150,000.",
+        "grades": [11, 12],
+        "time_commitment": "5 hours/week, 32 weeks/year"
+      },
+      {
+        "category": "Research",
+        "role": "Research Project Participant",
+        "organization": "Synopsys Science Fair",
+        "description": "Developed a machine-learning model predicting the presence of dysphagia in Parkinson’s Disease patients under mentorship of TCU researchers.",
+        "grades": [10],
+        "time_commitment": "13 hours/week, 27 weeks/year"
+      },
+      {
+        "category": "Competition",
+        "role": "Participant",
+        "organization": "UC Berkeley’s BioEngineering HS Competition",
+        "description": "Researched product idea to manufacture O- blood (gene-editing). Presented poster at UC Berkeley. Connected with a professor to continue project.",
+        "grades": [11],
+        "time_commitment": "10 hours/week, 7 weeks/year"
+      },
+      {
+        "category": "Leadership",
+        "role": "CEO",
+        "organization": "Annual Business and Economics Conference",
+        "description": "Recruited industry professionals to speak, mentor, and judge at the conference. Led logistics, marketing, and outreach teams.",
+        "grades": [10, 11, 12],
+        "time_commitment": "8 hours/week, 20 weeks/year"
+      },
+      {
+        "category": "Entrepreneurship",
+        "role": "Founder",
+        "organization": "Shooting Stars Entrepreneurship Camp",
+        "description": "Co-founded entrepreneurship camp to develop products, host presentations, and learn from entrepreneur guests and venture capitalist judges.",
+        "grades": [9, 10],
+        "time_commitment": "35 hours/week, 3 weeks/year"
+      },
+      {
+        "category": "Athletics",
+        "role": "JV Co-Captain, Varsity Team Manager, First Middle Blocker",
+        "organization": "JV and Varsity Volleyball",
+        "description": "JV Co-Captain (10): led team to 3rd in league. Varsity Team Manager (11,12): helped coaches run practices and played as First Middle Blocker.",
+        "grades": [9, 10, 11, 12],
+        "time_commitment": "11 hours/week, 12 weeks/year"
+      },
+      {
+        "category": "Tutoring",
+        "role": "Independent Math Tutor",
+        "organization": "N/A",
+        "description": "Tutored students in math (Algebra - Calculus) online and at local high school. Focused on helping athletes pass math courses.",
+        "grades": [9, 10],
+        "time_commitment": "2 hours/week, 40 weeks/year"
+      }
+    ],
+    "essays": []
+  },
+  {
+    "student": "Tiya",
+    "activities": [
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "President and Founder",
+        "organization": "AndromedaAI",
+        "description": [
+          "CS nonprofit that holds hackathons, workshops, and guidance on science fair projects.",
+          "Reached 5 countries, 10 states; received $5000 in awards for projects.",
+          "Personally tutored/guided 10+ students in research-based passion projects."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "School",
+          "hours_per_week": 7,
+          "weeks_per_year": 22
+        }
+      },
+      {
+        "category": "Research",
+        "role": "Student Researcher",
+        "organization": "Yale Interventional Oncology Lab",
+        "description": [
+          "Synthesizing MRIs for Eovist Hepatobiliary Phase under Dr. Julius Chapiro.",
+          "Processed data from Yale Hospital; took lead on project.",
+          "Built innovative generative adversarial network for better performance on Eovist MRIs."
+        ],
+        "grades": "11, 12",
+        "time_commitment": {
+          "frequency": "Year",
+          "hours_per_week": 16,
+          "weeks_per_year": 20
+        }
+      },
+      {
+        "category": "Research",
+        "role": "Independent Researcher",
+        "organization": "Self-directed with consultant radiologist and retired CS professor from Cambridge",
+        "description": [
+          "AI Pneumonia Detection via CNN-based Attention.",
+          "Published in IEEE; presented at ISPA 2021 conference.",
+          "1st at Synopsys & CSEF; Project of the Year CSEF."
+        ],
+        "grades": "9, 10",
+        "time_commitment": {
+          "frequency": "Year",
+          "hours_per_week": 12,
+          "weeks_per_year": 40
+        }
+      },
+      {
+        "category": "Research",
+        "role": "Independent Researcher",
+        "organization": "Self-directed using Stanford Database",
+        "description": [
+          "Auto Calcium Scoring via U-net on Non-Gated CT.",
+          "Published in IEEE; presented at MIT URTC 2022 conference.",
+          "1st at Synopsys & CSEF; first model on non-gated CT."
+        ],
+        "grades": "10, 12",
+        "time_commitment": {
+          "frequency": "School",
+          "hours_per_week": 10,
+          "weeks_per_year": 22
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "President (23', 24') / Vice President (22')",
+        "organization": "AI for Healthcare Club",
+        "description": [
+          "Focused on the application of machine learning on medical imaging.",
+          "Introduced research competitions (20+ new kids); worked on 2 large projects.",
+          "Published 1 project on Arxiv; taught ML basics to 30+ kids."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "School",
+          "hours_per_week": 3,
+          "weeks_per_year": 36
+        }
+      },
+      {
+        "category": "Athletics: JV/Varsity",
+        "role": "Captain / Libero",
+        "organization": "City Beach, Tropical Touch, Titans, BISV JV/Varsity",
+        "description": [
+          "Volleyball teams; NCVA gold bracket 22', 23', first in bracket 23'.",
+          "Learned how to keep a positive attitude in a losing tournament."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "Year",
+          "hours_per_week": 6,
+          "weeks_per_year": 28
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "Co-Founder / Content Director",
+        "organization": "AIdvocacy",
+        "description": [
+          "Free AI tutorials and guidance to low socioeconomic communities.",
+          "Contributed to computer vision curriculum; led team of 20+ students.",
+          "Built Mask R-CNN project to detect brain tumors."
+        ],
+        "grades": "9, 10, 11",
+        "time_commitment": {
+          "frequency": "Year",
+          "hours_per_week": 1,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "Teacher’s Assistant",
+        "organization": "TheKirtiArtGallery",
+        "description": [
+          "Assisted with teaching groups of 5 and non-profit-based art fundraisers.",
+          "Taught over 50 kids (age 5-15)."
+        ],
+        "grades": "9, 10, 12",
+        "time_commitment": {
+          "frequency": "Break",
+          "hours_per_week": 2,
+          "weeks_per_year": 8
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "President",
+        "organization": "Machine Learning Club Chapter (StartOnAI)",
+        "description": [
+          "Created a year-long curriculum covering image processing to text processing AI methods.",
+          "Created a YouTube channel covering basics of programming."
+        ],
+        "grades": "9, 10",
+        "time_commitment": {
+          "frequency": "School",
+          "hours_per_week": 1,
+          "weeks_per_year": 36
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "Ambassador",
+        "organization": "InspiritAI",
+        "description": [
+          "Performed outreach and marketing of internal courses.",
+          "Worked with Stanford/MIT graduate students on CNN/RNN project on autonomous cars."
+        ],
+        "grades": "9, 10",
+        "time_commitment": {
+          "frequency": "School",
+          "hours_per_week": 1,
+          "weeks_per_year": 6
+        }
+      }
+    ],
+    "essays": []
+  },
+  {
+    "student": "Annmaria",
+    "activities": [
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "United Nations Delegate",
+        "organization": "United Nations",
+        "description": [
+          "Represented Girl Scouts USA.",
+          "Speaker at the International Day of the Girl Event at UN Headquarters.",
+          "Speaker at the Commission on the Status of Women."
+        ],
+        "grades": "11, 12",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 2,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "First-author of Ethos, a bioethics publication",
+        "organization": "Mentored by Drs. Martinez and Martschenko at Stanford University and Dr. Crane at Emory University",
+        "description": [
+          "Led 7 authors in writing and publishing a 20-chapter bioethics book.",
+          "Currently used by 3 Bay Area schools to teach bioethics in the 21st century."
+        ],
+        "grades": "10, 11, 12",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 10,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "Founder of ScoutBlood",
+        "organization": "Project completed with Girl Scouts USA",
+        "description": [
+          "Matches rural hospitals with blood donors.",
+          "Amassed 11,000 donors and partnered with 24 hospitals in India.",
+          "Earned Gold Award and National Scholarship."
+        ],
+        "grades": "10, 11, 12",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 5,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "Co-Founder and President of Allies Against Abuse",
+        "organization": "Worked with the District Council of Namengo, Uganda",
+        "description": [
+          "Raised $30,000 and built St. Sebastian’s Women’s and Children’s Hospital in Uganda.",
+          "Visited for the inauguration ceremony.",
+          "Serving over 100 patients."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 5,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Other",
+        "role": "Teen Miss California Earth 2021",
+        "organization": "Miss Earth",
+        "description": [
+          "1st place in the CA pageant.",
+          "Represented CA at nationals; received Top Interview and Champion of Diversity awards.",
+          "Ambassador for Climate Reality."
+        ],
+        "grades": "11",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 3,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Research",
+        "role": "Neurobiology Researcher (paid)",
+        "organization": "Crickmore Lab at Harvard Medical School",
+        "description": [
+          "Studied mating behavior of the Drosophila melanogaster.",
+          "Discovered the importance of the D1/D2 heteromeric complex in motivating behavior."
+        ],
+        "grades": "12",
+        "time_commitment": {
+          "frequency": "During school break",
+          "hours_per_week": 40,
+          "weeks_per_year": 8
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "DECA Mentor and Teacher’s Assistant (paid)",
+        "organization": "The Harker School Business, Entrepreneurship, and Economics (B&E) Department",
+        "description": [
+          "Mentored freshmen in competitive business.",
+          "Wrote scripts and filmed over 80 videos on business and economics.",
+          "Videos used in Harker’s B&E classes."
+        ],
+        "grades": "11, 12",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 10,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Community Service (Volunteer)",
+        "role": "Co-Founder and CEO of Explere",
+        "organization": "Explere",
+        "description": [
+          "World’s first job board and resource center for high school students.",
+          "Led development, marketing, and customer management.",
+          "Pitched start-up: 1st at Diamond Challenge and 2nd in DECA’s business plan event (states)."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "All year",
+          "hours_per_week": 5,
+          "weeks_per_year": 52
+        }
+      },
+      {
+        "category": "Academic",
+        "role": "Varsity Lincoln-Douglas Debate Captain",
+        "organization": "The Harker School Speech and Debate Program",
+        "description": [
+          "Mentored students.",
+          "Advanced to elimination rounds at the National Season Opener and the Damus Hollywood, Stanford, and California Invitationals."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "During school",
+          "hours_per_week": 3,
+          "weeks_per_year": 25
+        }
+      },
+      {
+        "category": "Athletics",
+        "role": "Varsity Basketball Player",
+        "organization": "The Harker School Athletics Program",
+        "description": [
+          "2022 Central Coast Section Finalists.",
+          "Advanced to Northern California quarterfinals, breaking the girl’s basketball record at The Harker School."
+        ],
+        "grades": "9, 10, 11, 12",
+        "time_commitment": {
+          "frequency": "During school",
+          "hours_per_week": 10,
+          "weeks_per_year": 12
+        }
+      }
+    ],
+    "essays": []
   }
 ]
