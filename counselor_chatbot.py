@@ -23,7 +23,7 @@ from mentor_utils import (
 )
 
 app = Flask(__name__)
-openai.api_key = "ADD YOURS HERE"
+openai.api_key = "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"
 app.secret_key = "IshaanIs2Freaky"
 
 @app.route('/', methods=['GET', 'POST'])
@@ -142,12 +142,11 @@ def chat():
                     best_mentor, best_score = recommend_mentor(user_message, student_info)
                     if best_mentor:
                         reason = generate_mentor_reason(best_mentor, user_message)
-                        mentor_chat_url = url_for('mentor_chat_redirect', mentor_id=best_mentor, _external=True)
                         recommendation_text = (
                             f"I think you might benefit from chatting with Mentor **{best_mentor}** "
                             f"(similarity score: {best_score:.2f}).\n\n"
                             f"I recommended them because {reason}\n\n"
-                            f"[Click here to chat with {best_mentor}]({mentor_chat_url})"
+                            f"[Click here to chat with {best_mentor}]"
                         )
                         conversation.append({'role': 'assistant', 'content': recommendation_text})
                         session['mentor_cooldown'] = 5  # example
