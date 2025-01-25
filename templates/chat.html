@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Athena - Your AI College Counselor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Athena - Your AI College Counselor</h1>
+        </div>
+        <div class="chat-container">
+            <div class="chat-box" id="chat-box">
+                {% for message in conversation %}
+                    {% if message.role == 'user' %}
+                        <div class="message user-message">
+                            <div class="avatar">
+                                <i class="fas fa-user"></i>
+                            </div>
+                            <div class="message-content">
+                                {{ message.content }}
+                            </div>
+                        </div>
+                    {% elif message.role == 'assistant' %}
+                        <div class="message assistant-message">
+                            <div class="avatar">
+                                <i class="fas fa-user-graduate"></i>
+                            </div>
+                            <div class="message-content">
+                                {{ render_markdown(message.content)|safe }}
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                <!-- Loading Animation -->
+                <div class="message assistant-message" id="loading-message" style="display: none;">
+                    <div class="avatar">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <div class="message-content">
+                        <div class="loader"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="conversation-starters">
+                <p>Need ideas on what to ask?</p>
+                {% for starter in starters %}
+                    <button type="button" class="starter-button">{{ starter }}</button>
+                {% endfor %}
+            </div>
+            <div class="chat-input">
+                <form method="post" id="chat-form">
+                    <textarea name="message" id="message-input" rows="1" placeholder="Type your message here..." required></textarea>
+                    <button type="submit"><i class="fas fa-paper-plane"></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function(){
+            // Auto-scroll chat box to bottom
+            var chatBox = document.getElementById('chat-box');
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Handle starter button clicks
+            var starterButtons = document.querySelectorAll('.starter-button');
+            starterButtons.forEach(function(button){
+                button.addEventListener('click', function(){
+                    var starterText = this.textContent;
+                    document.getElementById('message-input').value = starterText;
+                });
+            });
+
+            // Show loading animation on form submit
+            var chatForm = document.getElementById('chat-form');
+            chatForm.addEventListener('submit', function(){
+                document.getElementById('loading-message').style.display = 'flex';
+            });
+        });
+    </script>
+</body>
+</html>
