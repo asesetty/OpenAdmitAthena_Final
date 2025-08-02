@@ -23,8 +23,8 @@ from mentor_utils import (
 )
 
 app = Flask(__name__)
-openai.api_key = "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"
-app.secret_key = "IshaanIs2Freaky"
+openai.api_key = "<test>"
+app.secret_key = "<test>"
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
